@@ -35,3 +35,4 @@ For a quick delivery, I did not go too deep with some of the features. If I had 
 - **Paging for the search results** : For search queries that may return many github users, I would like to page the results with window size of about 20 and add a progress spinner at the bottom of the list when loading more.
 - **Colour theme** : I used the default colour theme for this project, but I'm not really a fan of the current one. I would love to change to a new colour combination if I had more time.
 - **Instrumented UI Testing** : I thought it would be too much to include this given my time window. This is maybe something to consider.
+- **Previews for Composables** : Would have been good to add previews for composables. It was okay for this project as it was small and builds fast. If the build time was anything longer than 10 seconds, I would have added it.
