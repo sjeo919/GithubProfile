@@ -1,7 +1,7 @@
 # Github Profile
 Simple Android application to search for Github users and view their profiles.
 
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/37534a2c-dd41-4206-9ff5-819fecf774b2" /> <img width="300" alt="image" src="https://github.com/user-attachments/assets/d44a70a5-6a59-4756-bc18-9792bc4f34de" /> <img width="300" alt="image" src="https://github.com/user-attachments/assets/6d9dcf80-210d-4fa9-99d3-debd508ed149" />
+<img width="240" alt="image" src="https://github.com/user-attachments/assets/37534a2c-dd41-4206-9ff5-819fecf774b2" /> <img width="240" alt="image" src="https://github.com/user-attachments/assets/d44a70a5-6a59-4756-bc18-9792bc4f34de" /> <img width="240" alt="image" src="https://github.com/user-attachments/assets/6d9dcf80-210d-4fa9-99d3-debd508ed149" />
 
 
 
