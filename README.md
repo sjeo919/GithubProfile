@@ -23,6 +23,13 @@ Other libraries I used were:
 - **Coil Compose** : to lazy load and cache avatar images
 - **Retrofit** : for type-safe HTTP client for Android
 - **Coroutines** : for asynchronous tasks
+- **JUnit** : unit testing
 
 ## Build
 Use the default `debug` build variant and simple build and deploy the application using the `app` configuration.
+
+## Future Improvements
+For a quick delivery, I did not go too deep with some of the features. If I had more time, I would have also added the following features:
+- **Paging for the search results** : For search queries that may return many github users, I would like to page the results with window size of about 20 and add a progress spinner at the bottom of the list when loading more.
+- **Colour theme** : I used the default colour theme for this project, but I'm not really a fan of the current one. I would love to change to a new colour combination if I had more time.
+- **Instrumented UI Testing** : I thought it would be too much to include this given my time window. This is maybe something to consider.
